@@ -21,7 +21,7 @@ All commands are run from the root of the project, from a terminal:
 
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/netlify-templates/astro-platform-starter)
 
-## Developing Locally
+## Developing Locally hajar
 
 | Prerequisites             |
 | :------------------------ |
